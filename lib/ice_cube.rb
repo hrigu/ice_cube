@@ -1,5 +1,5 @@
 require 'date'
-require 'ice_cube/deprecated'
+#require 'ice_cube/deprecated'
 
 # Use psych if we can
 begin
